@@ -1,7 +1,7 @@
 {
   "name": "@gui117/util",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1-beta.1",
   "packageManager": "pnpm@9.8.0",
   "description": "Some util functions.",
   "license": "MIT",
