@@ -22,5 +22,5 @@ Some util functions.
 [bundle-src]: https://img.shields.io/bundlephobia/minzip/@gui117/util
 [bundle-href]: https://bundlephobia.com/result?p=@gui117/util
 
-[license-src]: https://img.shields.io/github/license/gui117/@gui117/util.svg
+[license-src]: https://img.shields.io/github/license/gui117/util.svg
 [license-href]: https://github.com/gui117/@gui117/util/blob/main/LICENSE
