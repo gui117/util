@@ -15,12 +15,9 @@ Some util functions.
 
 [npm-version-src]: https://img.shields.io/npm/v/@gui117/util
 [npm-version-href]: https://npmjs.com/package/@gui117/util
-
 [npm-downloads-src]: https://img.shields.io/npm/dm/@gui117/util
 [npm-downloads-href]: https://npmjs.com/package/@gui117/util
-
 [bundle-src]: https://img.shields.io/bundlephobia/minzip/@gui117/util
 [bundle-href]: https://bundlephobia.com/result?p=@gui117/util
-
 [license-src]: https://img.shields.io/github/license/gui117/util.svg
 [license-href]: https://github.com/gui117/@gui117/util/blob/main/LICENSE

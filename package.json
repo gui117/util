@@ -5,12 +5,12 @@
   "packageManager": "pnpm@9.8.0",
   "description": "Some util functions.",
   "license": "MIT",
-  "homepage": "https://github.com/gui117/@gui117/util#readme",
+  "homepage": "https://github.com/gui117/util#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gui117/@gui117/util.git"
+    "url": "git+https://github.com/gui117/util.git"
   },
-  "bugs": "https://github.com/gui117/@gui117/util/issues",
+  "bugs": "https://github.com/gui117/util/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
@@ -52,6 +52,7 @@
     "@types/node": "^22.5.0",
     "bumpp": "^9.5.2",
     "eslint": "^9.9.0",
+    "eslint-plugin-format": "^0.1.2",
     "esno": "^4.7.0",
     "lint-staged": "^15.2.9",
     "simple-git-hooks": "^2.11.1",
